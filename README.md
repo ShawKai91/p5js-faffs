@@ -6,10 +6,4 @@
 
 ## p5 web-links
 
-https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.js
-
-https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/p5.min.js
-
-https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.js
-
-https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.1.9/addons/p5.sound.min.js
+https://cdnjs.com/libraries/p5.js
