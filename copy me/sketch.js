@@ -1,4 +1,4 @@
-/// <reference path="..\lib/p5.global-mode.d.ts" />
+/// <reference path="../P5lib/ref/p5.global-mode.d.ts" />
 "use strict";
 
 function setup() {
