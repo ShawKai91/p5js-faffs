@@ -9,5 +9,5 @@
 https://cdnjs.com/libraries/p5.js
 
 ### list of fafs
-- /Rocky_yew
+- https://shawkai91.github.io/p5js-fafs/Rocky_yew/
 - /10PRINT
