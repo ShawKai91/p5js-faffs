@@ -10,10 +10,10 @@
 
 let x = 0;
 let y = 0;
-let spacing = 20;
+let spacing = 10;
 
 function setup() {
-  createCanvas(400, 400);
+  createCanvas(500, 500);
   background(0);
 }
 
