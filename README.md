@@ -10,4 +10,4 @@ https://cdnjs.com/libraries/p5.js
 
 ### list of fafs
 - https://shawkai91.github.io/p5js-fafs/Rocky_yew/
-- /10PRINT
+- https://shawkai91.github.io/p5js-fafs/10PRINT/
