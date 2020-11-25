@@ -9,11 +9,11 @@ function setup() {
     createVector(width, height),
     createVector(width / 2, 0)
   ]
-  for (let i = 0; i < tips.length; i++) {
-    stroke(C[3]);
-    strokeWeight(10);
-    point(tips[i]);
-  }
+//   for (let i = 0; i < tips.length; i++) {
+//     stroke(C[3]);
+//     strokeWeight(10);
+//     point(tips[i]);
+//   }
 }
 
 function draw() {
