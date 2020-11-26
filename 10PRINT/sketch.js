@@ -1,4 +1,4 @@
-/// <reference path="..\lib/p5.global-mode.d.ts" />
+/// <reference path="../P5lib/ref/p5.global-mode.d.ts" />
 "use strict";
 
 // Daniel Shiffman
@@ -10,10 +10,10 @@
 
 let x = 0;
 let y = 0;
-let spacing = 10;
+let spacing = 20;
 
 function setup() {
-  createCanvas(500, 500);
+  createCanvas(windowWidth, windowHeight);
   background(0);
 }
 
